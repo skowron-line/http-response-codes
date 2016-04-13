@@ -1,6 +1,7 @@
 {
     "name": "skowron-line/http-response-codes",
     "description": "Http Response Codes",
+    "license": "MIT",
     "authors": [
         {
             "name": "krzysztof skaradzinski",
