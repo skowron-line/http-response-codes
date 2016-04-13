@@ -5,7 +5,7 @@ namespace Http\Response;
 /**
  * @author Krzysztof Skaradziński <skaradzinski.krzysztof@gmail.com>
  */
-class Codes
+final class Codes
 {
     // Informational
     const HTTP_CONTINUE = 100;
