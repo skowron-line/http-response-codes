@@ -13,5 +13,10 @@
             "Http\\": "src/Http/"
         }
     },
-    "require": {}
+    "require": {},
+    "keywords": [
+        "http",
+        "response",
+        "code"
+    ]
 }
