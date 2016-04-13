@@ -1,0 +1,16 @@
+{
+    "name": "skowron-line/http-response-codes",
+    "description": "Http Response Codes",
+    "authors": [
+        {
+            "name": "krzysztof skaradzinski",
+            "email": "wygladaszjak@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Http\\": "src/Http/"
+        }
+    },
+    "require": {}
+}
